@@ -43,9 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exam\ExamBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\HJMIS.DataModel\HJMIS.DataModel.csproj">
+      <Project>{11e2d48c-e603-43c8-a53c-5108421e4826}</Project>
+      <Name>HJMIS.DataModel</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <Content Include="lib\Dos.ORM.dll" />
   </ItemGroup>

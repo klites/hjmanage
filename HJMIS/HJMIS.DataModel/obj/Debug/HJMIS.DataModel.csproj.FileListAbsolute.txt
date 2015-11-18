@@ -3,3 +3,4 @@ D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.DataModel\bin\Debug\HJMIS.DataModel.pdb
 D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.DataModel\bin\Debug\Dos.ORM.dll
 D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.DataModel\obj\Debug\HJMIS.DataModel.dll
 D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.DataModel\obj\Debug\HJMIS.DataModel.pdb
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.DataModel\obj\Debug\HJMIS.DataModel.csprojResolveAssemblyReference.cache

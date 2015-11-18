@@ -1,8 +1,27 @@
 ﻿<Window x:Class="HJMIS.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="481" Width="823">
     <Grid>
-        
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition Height="80" />
+            </Grid.RowDefinitions>
+            
+            <Grid Grid.Row="0" >
+                <ListView DataContext="{Binding}">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="姓名" Width="100" DisplayMemberBinding="{Binding }"/>
+                            <GridViewColumn Header="性别" Width="100" DisplayMemberBinding="{Binding}"/>
+                            <GridViewColumn Header="身份证号" Width="200" DisplayMemberBinding="{Binding}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+
+            </Grid>
+            
+        </Grid>
     </Grid>
 </Window>

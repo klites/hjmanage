@@ -8,7 +8,9 @@ D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\HJMIS.Properties.Resources.resour
 D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\HJMIS.csproj.GenerateResource.Cache
 D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\bin\Debug\HJMIS.exe
 D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\bin\Debug\HJMIS.pdb
-D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\bin\Debug\HJMIS.BLL.dll
-D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\bin\Debug\HJMIS.BLL.pdb
 D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\HJMIS.exe
 D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\HJMIS.pdb
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\bin\Debug\Dos.ORM.dll
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\bin\Debug\HJMIS.DataModel.dll
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\bin\Debug\HJMIS.DataModel.pdb
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\HJMIS_Content.g.cs

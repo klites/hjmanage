@@ -12,4 +12,7 @@
   <server id="14300805-2941-4221-a1dc-c579033e778e" name=".\sql2008r2(SQL Server2008)[all]" database="all" dbtype="SqlServer9">
     <connectionstring><![CDATA[Data Source=.\sql2008r2;Initial Catalog=master;User Id=sa;Password=sa]]></connectionstring>
   </server>
+  <server id="7a4567b4-6248-4f37-8b36-11e2dc167c0f" name="127.0.0.1(SQL Server2008)[Exam]" database="Exam" dbtype="SqlServer9">
+    <connectionstring><![CDATA[Data Source=127.0.0.1;Initial Catalog=Exam;Integrated Security=True]]></connectionstring>
+  </server>
 </servers>
