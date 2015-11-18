@@ -9,5 +9,6 @@
 //------------------------------------------------------------------------------
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("lib/dos.orm.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("lib/log4net.dll")]
 
 

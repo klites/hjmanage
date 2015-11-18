@@ -10,12 +10,12 @@
             </Grid.RowDefinitions>
             
             <Grid Grid.Row="0" >
-                <ListView DataContext="{Binding}">
+                <ListView Name="ListView1" >
                     <ListView.View>
                         <GridView>
-                            <GridViewColumn Header="姓名" Width="100" DisplayMemberBinding="{Binding}"/>
-                            <GridViewColumn Header="性别" Width="100" DisplayMemberBinding="{Binding}"/>
-                            <GridViewColumn Header="身份证号" Width="200" DisplayMemberBinding="{Binding}"/>
+                            <GridViewColumn Header="姓名" Width="100" DisplayMemberBinding="{Binding ExaminerName}"/>
+                            <GridViewColumn Header="性别" Width="100" DisplayMemberBinding="{Binding Sex}"/>
+                            <GridViewColumn Header="身份证号" Width="200" DisplayMemberBinding="{Binding IdCardNumber}"/>
                         </GridView>
                     </ListView.View>
                 </ListView>

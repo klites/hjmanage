@@ -34,6 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Dos.Common, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null" />
     <Reference Include="Dos.ORM, Version=1.10.1.2, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>lib\Dos.ORM.dll</HintPath>
@@ -88,7 +89,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="App1.config">
+    <None Include="App.config">
       <SubType>Designer</SubType>
     </None>
     <None Include="Properties\Settings.settings">
@@ -99,8 +100,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="lib\Dos.ORM.dll" />
+    <Content Include="lib\log4net.dll" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\HJMIS.BLL\HJMIS.BLL.csproj">
+      <Project>{7136c711-0477-4353-9f19-fe294e85ca38}</Project>
+      <Name>HJMIS.BLL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\HJMIS.DataModel\HJMIS.DataModel.csproj">
       <Project>{11e2d48c-e603-43c8-a53c-5108421e4826}</Project>
       <Name>HJMIS.DataModel</Name>

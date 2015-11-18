@@ -4,3 +4,12 @@ D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.BLL\bin\Debug\Dos.ORM.dll
 D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.BLL\obj\Debug\HJMIS.BLL.csprojResolveAssemblyReference.cache
 D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.BLL\obj\Debug\HJMIS.BLL.dll
 D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.BLL\obj\Debug\HJMIS.BLL.pdb
+D:\workFiles\git\hj\HJMIS\HJMIS.BLL\bin\Debug\HJMIS.BLL.dll
+D:\workFiles\git\hj\HJMIS\HJMIS.BLL\bin\Debug\HJMIS.BLL.pdb
+D:\workFiles\git\hj\HJMIS\HJMIS.BLL\bin\Debug\Dos.Common.dll
+D:\workFiles\git\hj\HJMIS\HJMIS.BLL\bin\Debug\Dos.ORM.dll
+D:\workFiles\git\hj\HJMIS\HJMIS.BLL\bin\Debug\HJMIS.DataModel.dll
+D:\workFiles\git\hj\HJMIS\HJMIS.BLL\bin\Debug\HJMIS.DataModel.pdb
+D:\workFiles\git\hj\HJMIS\HJMIS.BLL\obj\Debug\HJMIS.BLL.csprojResolveAssemblyReference.cache
+D:\workFiles\git\hj\HJMIS\HJMIS.BLL\obj\Debug\HJMIS.BLL.dll
+D:\workFiles\git\hj\HJMIS\HJMIS.BLL\obj\Debug\HJMIS.BLL.pdb

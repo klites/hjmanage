@@ -15,6 +15,7 @@ using System.Windows.Shapes;
 using Dos.Model;
 using Dos.ORM;
 using Dos.ORM.Common;
+using HJMIS.BLL.Exam;
 
 namespace HJMIS
 {
@@ -36,8 +37,9 @@ namespace HJMIS
 
         private void InitData()
         {
-            List<v_Examiner> list = DbSession.Default.From<v_Examiner>().Where(a => a.Sex == "男").ToList();
+            List<v_Examiner> list = DbSession.Default.From<v_Examiner>().Where(a => a.Sex == "男").Page(10,1).ToList();
 
+            //ListView1.ItemsSource = new ExamBLL().GetExamList();
         }
 
 
