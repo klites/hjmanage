@@ -12,7 +12,7 @@
   <server id="14300805-2941-4221-a1dc-c579033e778e" name=".\sql2008r2(SQL Server2008)[all]" database="all" dbtype="SqlServer9">
     <connectionstring><![CDATA[Data Source=.\sql2008r2;Initial Catalog=master;User Id=sa;Password=sa]]></connectionstring>
   </server>
-  <server id="341bcebf-02e1-4cb3-a97b-312e2dda16f1" name="127.0.0.1(SQL Server2008)[all]" database="all" dbtype="SqlServer9">
+  <server id="e6c49cd5-cab0-45be-b40d-1a6ce6170fac" name="127.0.0.1(SQL Server2008)[all]" database="all" dbtype="SqlServer9">
     <connectionstring><![CDATA[Data Source=127.0.0.1;Initial Catalog=master;Integrated Security=True]]></connectionstring>
   </server>
 </servers>

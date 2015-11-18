@@ -1,0 +1,6 @@
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.BLL\bin\Debug\HJMIS.BLL.dll
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.BLL\bin\Debug\HJMIS.BLL.pdb
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.BLL\bin\Debug\Dos.ORM.dll
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.BLL\obj\Debug\HJMIS.BLL.csprojResolveAssemblyReference.cache
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.BLL\obj\Debug\HJMIS.BLL.dll
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS.BLL\obj\Debug\HJMIS.BLL.pdb

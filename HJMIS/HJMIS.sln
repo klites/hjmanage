@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HJMIS", "HJMIS\HJMIS.csproj", "{E4E75334-BBB9-4281-A77B-31D3D942B88B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HJMIS.BLL", "HJMIS.BLL\HJMIS.BLL.csproj", "{7136C711-0477-4353-9F19-FE294E85CA38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dos.Tools", "Dos.Tools-master\Dos.Tools.csproj", "{F073175B-8B7A-4EFB-AD8C-8F8CBB4133A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{E4E75334-BBB9-4281-A77B-31D3D942B88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4E75334-BBB9-4281-A77B-31D3D942B88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4E75334-BBB9-4281-A77B-31D3D942B88B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7136C711-0477-4353-9F19-FE294E85CA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7136C711-0477-4353-9F19-FE294E85CA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7136C711-0477-4353-9F19-FE294E85CA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7136C711-0477-4353-9F19-FE294E85CA38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F073175B-8B7A-4EFB-AD8C-8F8CBB4133A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F073175B-8B7A-4EFB-AD8C-8F8CBB4133A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F073175B-8B7A-4EFB-AD8C-8F8CBB4133A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F073175B-8B7A-4EFB-AD8C-8F8CBB4133A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
