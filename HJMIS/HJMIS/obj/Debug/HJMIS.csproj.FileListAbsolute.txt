@@ -1,0 +1,14 @@
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\HJMIS.csprojResolveAssemblyReference.cache
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\MainWindow.baml
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\MainWindow.g.cs
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\App.g.cs
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\HJMIS_MarkupCompile.cache
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\HJMIS.g.resources
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\HJMIS.Properties.Resources.resources
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\HJMIS.csproj.GenerateResource.Cache
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\bin\Debug\HJMIS.exe
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\bin\Debug\HJMIS.pdb
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\bin\Debug\HJMIS.BLL.dll
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\bin\Debug\HJMIS.BLL.pdb
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\HJMIS.exe
+D:\WorkFiles\HJ\hjmanage\HJMIS\HJMIS\obj\Debug\HJMIS.pdb
